@@ -51,19 +51,19 @@ menu > ul> li> a{
     color: #e16010;
     border-top: 2px solid #e16010;
     text-shadow: #1c0a00;
-    background-color: #361500;
+    background-color: #361500c2;
     text-decoration: none;
     text-align: center;
     
 }
 
 menu >ul > li > a:hover{
-    background-color: #603601;
+    background-color: #603501;
 }
 
 main{
     width: 90vw;
-    background-color: #361500;
+    background-color: #361500bd;
     margin: auto;
     padding: 10px;
     border-radius: 10px;
