@@ -38,17 +38,18 @@ header > h3 {
 
 }
 #burguer{
-    background-color: gray;
+    background-color:#1c0a00;
     display: block;
-    color: #e16010;
+    color: #ff6200;
     padding: 10px;
     text-align: center;
 }
 
 #burguer:hover{
     background-color: #1c0a00;
-    color: #bdbdbd;
+    color: #ac7702;
     cursor: pointer;
+    
 }
 
 menu{
