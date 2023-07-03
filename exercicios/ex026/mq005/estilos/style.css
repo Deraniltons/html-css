@@ -37,9 +37,22 @@ header > h3 {
     font-size: large;
 
 }
+#burguer{
+    background-color: gray;
+    display: block;
+    color: #e16010;
+    padding: 10px;
+    text-align: center;
+}
+
+#burguer:hover{
+    background-color: #1c0a00;
+    color: #bdbdbd;
+    cursor: pointer;
+}
 
 menu{
-    display: block;
+    display: none;
 }
 menu > ul {
     list-style-type:none;
